@@ -4,7 +4,7 @@
 
 **Temporarily blocks GTA Online cloud saving using Windows Firewall.**
 
-[![Version](https://img.shields.io/badge/Version-1.0-yellow?style=for-the-badge\&logo=windows\&logoColor=white)](https://github.com/louzkk/gta-online-save-blocker)
+[![Version](https://img.shields.io/badge/Version-1.1-yellow?style=for-the-badge\&logo=windows\&logoColor=white)](https://github.com/louzkk/gta-online-save-blocker)
 [![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](LICENSE)
 [![Discord](https://img.shields.io/badge/Discord-yellow?style=for-the-badge\&logo=Discord\&logoColor=white)](https://discord.gg/QJPdw2UrVt)
 [![Download](https://img.shields.io/badge/Download-yellow?style=for-the-badge\&logo=Github\&logoColor=white)](https://github.com/louzkk/gta-online-save-blocker/releases)
